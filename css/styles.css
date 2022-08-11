@@ -32,6 +32,11 @@ input[type=text], select {
   box-sizing: border-box;
 }
 
+footer{
+  margin-top: 13px;
+  text-align: center;
+}
+
 .input-w-button {
   text-align: center;
   padding-top: 20px;
